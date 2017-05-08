@@ -29,9 +29,12 @@ module.exports = function (app) {
             var sum = diffArr.reduce(function(a, b) { return a + b; }, 0);
             return sum;
         };//end for userscore
+        
         };//end calcdiff func 
          
         var friendVariance = calcDiffFunc(user.scores, friends[i].scores);
         
             if (!bestMatchVariance || friendVariance < bestMatchVariance) {
-                bestMatchID = 
+                bestMatchID = i;
+                bestMatchVariance = friendVariance;
+            }
