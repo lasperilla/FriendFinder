@@ -27,12 +27,17 @@ module.exports = function(app) {
             }; //end calcdiff func
 
             let friendVariance = calcDiffFunc(user.scores, friends[i].scores);
-            console.log('friendVariance' + i)
-            console.log(friendVariance)
+            friendVariance++;
+            console.log('==============')
+            console.log('itteration '+i)
+            console.log('friendVariance ' + i+": "+friendVariance)
+            console.log('bestMatchVariance =' +bestMatchVariance)
+            console.log('==============')
 
-            if (!bestMatchID || friendVariance < bestMatchVariance) {
+            if (bestMatchID === null || friendVariance < bestMatchVariance) {
                 bestMatchID = i;
-                console.log('best match is now' + bestMatchID)
+                // console.log('friend variance: '+friendVariance+' < bestMatchVariance: '+bestMatchVariance)
+                console.log('best match is now ' + friends[bestMatchID].name)
                 bestMatchVariance = friendVariance;
             };
         };

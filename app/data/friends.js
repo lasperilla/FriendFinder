@@ -1,7 +1,7 @@
 var friendsArray = [
   {
     "name": "Megumin",
-    "photo": "http://i.imgur.com/PoBItyt.png",
+    "photo": "http://i64.tinypic.com/25qx7a9.png",
     "scores": [
         5,
         1,
@@ -16,7 +16,7 @@ var friendsArray = [
     ]
   }, {
     "name": "Kazuma",
-    "photo": "http://i.imgur.com/zaUtsEN.png",
+    "photo": "http://i64.tinypic.com/2ztj4g2.png",
     "scores": [
         5,
         2,
@@ -31,7 +31,7 @@ var friendsArray = [
     ]
   }, {
     "name": "Aqua",
-    "photo": "http://i.imgur.com/6thfU68.png",
+    "photo": "http://i64.tinypic.com/xli5ad.png",
     "scores": [
         1,
         4,
@@ -46,7 +46,7 @@ var friendsArray = [
     ]
   }, {
     "name": "Darkness",
-    "photo": "http://i.imgur.com/j5QXURS.png",
+    "photo": "http://i68.tinypic.com/316w2vc.png",
     "scores": [
         3,
         4,
@@ -61,7 +61,7 @@ var friendsArray = [
     ]
   }, {
     "name": "Eris",
-    "photo": "http://i.imgur.com/Z3MxEp9.jpg",
+    "photo": "http://i65.tinypic.com/1goepv.jpg",
     "scores": [
         5,
         4,
@@ -76,7 +76,7 @@ var friendsArray = [
     ]
   }, {
     "name": "Wiz",
-    "photo": "http://i.imgur.com/fpZ02K9.png",
+    "photo": "http://i68.tinypic.com/2evyeqg.png",
     "scores": [
         1,
         1,
@@ -91,22 +91,22 @@ var friendsArray = [
     ]
   }, {
     "name": "Chomusuke",
-    "photo": "http://i.imgur.com/OUUj26Q.png",
+    "photo": "http://i65.tinypic.com/2luceio.png",
     "scores": [
-        2,
         1,
-        4,
-        3,
-        5,
-        5,
-        3,
-        3,
-        2,
-        5
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
     ]
   }, {
     "name": "Vanir",
-    "photo": "http://i.imgur.com/pi6jzCk.png",
+    "photo": "http://i63.tinypic.com/2m337tu.png",
     "scores": [
         1,
         1,
@@ -121,7 +121,7 @@ var friendsArray = [
     ]
   }, {
     "name": "Yunyun",
-    "photo": "http://i.imgur.com/cV0Ku8m.png",
+    "photo": "http://i63.tinypic.com/212wqxu.png",
     "scores": [
         1,
         1,
@@ -136,7 +136,7 @@ var friendsArray = [
     ]
   }, {
     "name": "Beldia",
-    "photo": "http://i.imgur.com/hjxxlJd.png",
+    "photo": "http://i67.tinypic.com/29opvmt.png",
     "scores": [
         4,
         3,
