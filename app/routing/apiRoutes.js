@@ -39,8 +39,9 @@ module.exports = function(app) {
 
         console.log('your best friend is ' + friends[bestMatchID].name)
         res.json({
-            message: 'successfully added profile.'
-                //todo: respond with best match obj here?
+            message: 'successfully matched.',
+            name: friends[bestMatchID].name,
+            photo: friends[bestMatchID].photo
         });
     });
 };

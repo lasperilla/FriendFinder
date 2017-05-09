@@ -1,7 +1,7 @@
 var friendsArray = [
   {
-    "name": "Friend",
-    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "name": "Megumin",
+    "photo": "http://i.imgur.com/PoBItyt.png",
     "scores": [
         5,
         1,
@@ -15,8 +15,8 @@ var friendsArray = [
         1
     ]
   }, {
-    "name": "Friend2",
-    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "name": "Kazuma",
+    "photo": "http://i.imgur.com/zaUtsEN.png",
     "scores": [
         5,
         2,
@@ -30,8 +30,8 @@ var friendsArray = [
         1
     ]
   }, {
-    "name": "Friend3",
-    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "name": "Aqua",
+    "photo": "http://i.imgur.com/6thfU68.png",
     "scores": [
         1,
         4,
@@ -45,8 +45,8 @@ var friendsArray = [
         3
     ]
   }, {
-    "name": "Friend4",
-    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "name": "Darkness",
+    "photo": "http://i.imgur.com/j5QXURS.png",
     "scores": [
         3,
         4,
@@ -60,8 +60,8 @@ var friendsArray = [
         3
     ]
   }, {
-    "name": "Friend5",
-    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "name": "Eris",
+    "photo": "http://i.imgur.com/Z3MxEp9.jpg",
     "scores": [
         5,
         4,
@@ -75,8 +75,8 @@ var friendsArray = [
         1
     ]
   }, {
-    "name": "Friend6",
-    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "name": "Wiz",
+    "photo": "http://i.imgur.com/fpZ02K9.png",
     "scores": [
         1,
         1,
@@ -90,8 +90,8 @@ var friendsArray = [
         3
     ]
   }, {
-    "name": "Friend7",
-    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "name": "Chomusuke",
+    "photo": "http://i.imgur.com/OUUj26Q.png",
     "scores": [
         2,
         1,
@@ -105,8 +105,8 @@ var friendsArray = [
         5
     ]
   }, {
-    "name": "Friend8",
-    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "name": "Vanir",
+    "photo": "http://i.imgur.com/pi6jzCk.png",
     "scores": [
         1,
         1,
@@ -120,8 +120,8 @@ var friendsArray = [
         5
     ]
   }, {
-    "name": "Friend9",
-    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "name": "Yunyun",
+    "photo": "http://i.imgur.com/cV0Ku8m.png",
     "scores": [
         1,
         1,
@@ -135,8 +135,8 @@ var friendsArray = [
         3
     ]
   }, {
-    "name": "Friend10",
-    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "name": "Beldia",
+    "photo": "http://i.imgur.com/hjxxlJd.png",
     "scores": [
         4,
         3,
